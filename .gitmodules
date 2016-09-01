@@ -7,3 +7,6 @@
 [submodule "paho.mqtt.python"]
 	path = paho.mqtt.python
 	url = https://github.com/eclipse/paho.mqtt.python.git
+[submodule "paho.mqtt.javascript"]
+	path = paho.mqtt.javascript
+	url = https://github.com/eclipse/paho.mqtt.javascript.git
